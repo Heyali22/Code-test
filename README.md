@@ -97,3 +97,6 @@ button {
     max-width: 280px;
   }
 }
+function clickMe() {
+  alert("Responsive & working 🚀");
+}
